@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of three inhumane murders committed by William Blisse alias Watts, of the parish of Mims in the county of Middlesex, upon the bodies of Will. Johnson his near kinsman, and Robert Porter servant to Mr. Nichols. Also the manner how he killed, robbed and striped a drovers boy, as he was going to Market-street. With the wonderful discovery of the murtherer. Likewise the sentence of death pronounced against him at the sessions-house in the Old Bayly, London, Feb. 28. 1672. and the manner of his execution, which is to be at the Round-about-house near Kicksend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63450</idno>
+            <idno type="STC">Wing T2571B</idno>
+            <idno type="STC">ESTC R222525</idno>
+            <idno type="EEBO-CITATION">99833688</idno>
+            <idno type="PROQUEST">99833688</idno>
+            <idno type="VID">38166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38166)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2220:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of three inhumane murders committed by William Blisse alias Watts, of the parish of Mims in the county of Middlesex, upon the bodies of Will. Johnson his near kinsman, and Robert Porter servant to Mr. Nichols. Also the manner how he killed, robbed and striped a drovers boy, as he was going to Market-street. With the wonderful discovery of the murtherer. Likewise the sentence of death pronounced against him at the sessions-house in the Old Bayly, London, Feb. 28. 1672. and the manner of his execution, which is to be at the Round-about-house near Kicksend.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1672 [i.e. 1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 4 is misnumbered p. 2.</note>
+                  <note>Date of publication given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blisse, William, d. 1673 --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38166:1"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:38166:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>A True and Perfect RELATION Of Three Inhumane MURDERS, Committed By <hi>William Bliſſe</hi> alias <hi>Watts,</hi> of the Pariſh of <hi>Mims</hi> in the County of <hi>Middleſex,</hi> upon the Bodies of <hi>Will. Johnſon</hi> his near Kinſman, and <hi>Robert Porter</hi> Servant to Mr. <hi>Nichols.</hi>
+            </p>
+            <p>ALSO The manner how he killed, robbed and ſtriped a Drovers Boy, as he was going to <hi>Market-ſtreet.</hi>
+            </p>
+            <p>With the wonderful diſcovery of the Murtherer.</p>
+            <p>LIKEWISE The Sentence of Death pronounced againſt him at the Seſſions-houſe in the <hi>Old Bayly, London,</hi> Feb. 28. 1672. and the manner of his Execution, which is to be at the <hi>Round-about-houſe</hi> near <hi>Kickſend.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed in the Year 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div n="murders" type="account">
+            <pb facs="tcp:38166:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="3" facs="tcp:38166:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>A True and perfect Relation of three Bloudy MURDERS, committed by <hi>William Bliſs,</hi> upon the Body of <hi>William Johnſon</hi> his Kinſman, and <hi>Robert Porter</hi> a Servant to of Mr. <hi>Nichols, &amp;c.</hi>
+            </head>
+            <p>IF we look back upon former ages and turn over the variety of ancient and modern Hiſtories, we ſhall find that Revenge and Murther have ever proved fatal crimes to their undertakers, for let them be never ſo ſecretly contrived, or the ſhedding of innocent Blood never ſo wretchedly perpetrated; yet as our Con<g ref="char:EOLhyphen"/>ſcience is to us a thouſand Witneſſes, ſo God is to us a thouſand Conſciences; firſt to bring it to light, and then their Authors to deſerved puniſhments for the ſame, when they leaſt dream or think thereof. For as there is no peace to the wicked, ſo they ſhall find no Peace or Tranquility here on Earth, either with God or his Creatures; becauſe if they would conceal it, the very Fowls of the Air, or Beaſts of the Feild, yea, the very ſtones and timber of their Chamber would detect it, a powerful example and preſi<g ref="char:EOLhyphen"/>dent whereof, we may behold in this enſuing Hiſtory; where a wretched Creature making himſelf guilty of theſe bloody Crimes, by the providence of God is diſcovered; and receives exemplary and condign puniſhment for the</p>
+            <p>
+               <hi>WIlliam Bliſs</hi> commonly known by the name of <hi>Watts</hi> of <hi>Kicksend,</hi> in the County of <hi>Middleſex</hi> Butcher, being about the Age of one or two and twenty years, committed an inhumane Murther upon
+<pb n="2" facs="tcp:38166:3"/>
+               <!-- PDF PAGE 33 -->one <hi>William Johnſon</hi> his Kinſman, Robbing him of ſix pound in mony, and then threw the body into a Pond, which was in ſome days after found by the Neighbours: And this <hi>William Bliſs</hi> being obſerved to be laſt in his company, was upon ſuſpicion of the Murther apprehen<g ref="char:EOLhyphen"/>ded and carryed before a Juſtice of the Peace, who com<g ref="char:EOLhyphen"/>mitted him to <hi>Newgate;</hi> where he lay till the Seſſions, but no poſitive evidence coming againſt him, he was cleared of this Fact: yet notwithſtanding the eyes and judgment of men could not diſcover this, the Juſtice of God began to be exemplary upon him, ſtriking him from head to foet, with a loathſome Leprous diſeaſe, who before was clear skind and well ſhaped, and comely in all his parts! yet did not this deter this wicked Villain from a farther progreſs in his bloody and wicked practiſes; for where a heart is given to covetouſneſs and cruelty, there is little ſign of Grace; and therefore leſs hope of proſperity ei<g ref="char:EOLhyphen"/>ther in this life or the next: for thoſe are ſins which ſo much ecclips the Judgments, and darkens the Underſtan<g ref="char:EOLhyphen"/>dings, that the Man thereby runs blindfolded and head<g ref="char:EOLhyphen"/>long to all miſery and confuſion: and makes his eſtate ſo deſperate, that he deſerves not to be pittyed by any, be<g ref="char:EOLhyphen"/>cauſe he would not pitty or compaſſionate others.</p>
+            <p>Thus lived this wretch for ten or twelve months en<g ref="char:EOLhyphen"/>deavouring to juſtifie himſelf, and get credit and reputati<g ref="char:EOLhyphen"/>on, paying ſome debts with the mony he took from the perſon Murthered, and now he again treads the tragick ſtage of blood, for being hired to conduct a young man (ſervant to Mr. <hi>Nichols,</hi> in the Pariſh of <hi>Mims</hi>) through
+<pb n="5" facs="tcp:38166:3"/>
+               <!-- PDF PAGE 33 -->
+               <hi>Enſield-Chaſe,</hi> diſcovering by ſome diſcourſe that the young man had mony about him, watching his oportu<g ref="char:EOLhyphen"/>nity, killed him with a Hedg-Bill in the <hi>Chaſe;</hi> robbed him of his mony, and took a Bill of four pound out of his pocket, which he afterward carryed to the Maſter of the murthered, demanding the mony with threats; pretending that his Servant was his Brother, and was not well, and could not ſtay for his money; notwithſtanding his threats the mony was not paid. This was evidenced by the ſaid Maſter at his Trial, but the manner of the diſco<g ref="char:EOLhyphen"/>very was ſtrange and miraculous, for ſome Hounds being kept hard by the place where the murthered perſon was buried, ſenting the dead Corps that was but ſhallowly bu<g ref="char:EOLhyphen"/>ried in the ground, with their paws and noſes tears up the Earth and drags up the body: eating part of his bowels, and leaving ſeveral of his bones above-ground, which this Villain obſerving before any one elſe, buries it again, and covers it with Green Sods, and ſticks buſhes about it to keep off the hounds, which was one means of his diſcovery; for he was obſerved to cut ſuch buſhes in the <hi>Chaſe,</hi> which being applied to the places where he had cut them, they did exactly fit.</p>
+            <p>But on the 24th of day <hi>February,</hi> 1672. the hounds being carryed out by their Maſter, and ſome gentlemen to hunt, coming near to this place left the ſent of their Game, and ruſhed through theſe buſhes, and again tore up the body, miſerably torn about the bowels and breaſt, but as God would have it, they had not torn his Face;
+<pb n="2" facs="tcp:38166:4"/>
+               <!-- PDF PAGE 34 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:38166:4"/>
+               <!-- PDF PAGE 34 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:38166:5"/>
+               <!-- PDF PAGE 35 -->upon this the Gentlemen retired with their dogs &amp; acquain<g ref="char:EOLunhyphen"/>ted the neighbours with the diſcovery, upon which many flock to the place, and among the reſt the Murtherer, who being deſired by one <hi>John Hardyman</hi> a Butcher (a <hi>neigh<g ref="char:EOLhyphen"/>bour</hi> thereabouts) to touch the body, he refuſed it with an Oath, whereupon the perſon replyed, I am afraid you have had a hand in this mans death: But the Villain then made anſwer, <hi>have a care that I have not a hand in yours:</hi> upon which he was apprehended, and upon ſeveral cir<g ref="char:EOLhyphen"/>cumſtances proving the fact, at the Coroners Inqueſt was Committed to <hi>Newgate,</hi> which at the Seſſions in the <hi>Old-Bayly, Feb.</hi> 28th. was moſt clearly proved againſt him, and he ſentenced to be Executed at <hi>Tybourn;</hi> but upon the Countries requeſt, the Bench was pleaſed to order his Execution to be at the place where he committeed the Bloody Murther: where he is to hang in Chains, as a me<g ref="char:EOLhyphen"/>morable example of Gods Juſtice, in diſcovering and pu<g ref="char:EOLhyphen"/>niſhing ſuch Crimes, and to deter others from doing the like, and the charge of this Execution the Country there<g ref="char:EOLhyphen"/>about voluntarily offered to defray.</p>
+            <p>Since his Impriſonment, another ſuſpicious ſign of a Murther of his hath been diſcovered, <hi>viz.</hi> There is found ſome Cloaths hid in a Hay-Mow, at the <hi>Checker</hi> in <hi>Kicksend,</hi> near to this Murtherers Fathers houſe. The Circumſtances giving the cauſe of this ſuſpicion are theſe. A Drovers Boy coming from <hi>London,</hi> was buying a Pie at this Murtherers Fathers houſe, and was obſerved by the Murtherer to pull mony out of his ſhooe to pay for it, who examined the Boy, why he carryed mony in his ſhooes, the
+<pb n="7" facs="tcp:38166:5"/>
+               <!-- PDF PAGE 35 -->Boy replies, <hi>I have that about me, for which many a man loſeth his Life;</hi> upon which he was obſerved to walk along with the Boy toward <hi>Market-Street,</hi> but the Boy was ne<g ref="char:EOLhyphen"/>ver ſeen ſince that time; And the Cloathes are known to be the ſame he wore when he bought the Pie.</p>
+            <p>Now from this dreadfull and bloody ſtory, the Reader may learn how God in his due time and providence doth aſuredly detect and puniſh Murther, let this exemplary puniſhment be a caveat for all perſons not only to deteſt theſe foul ſins of Coveteouſneſs and Murther in others, but to hate and abhor them in themſelves, for if to the reſt of our ſins we once conſent to add that ſcarlet and crying ſin of Murther, that blood which we untimely ſend to Earth, will in Gods time draw down vengeance on our heads from Heaven.</p>
+            <div type="part">
+               <head>A ſummary account of the Murtherers Actions.</head>
+               <p>
+                  <hi>WIlliam Bliſs</hi> alias <hi>Watts,</hi> was in <hi>New<g ref="char:EOLhyphen"/>gate</hi> about two years ſince, for the Murdering of one <hi>William Johnſon,</hi> the ſon of <hi>William Johnſon</hi> a Dyer in <hi>Southwark.</hi> The caſe this, <hi>Bliſs</hi> and one <hi>John Clay</hi> (who dyed in Goale) were committed for the Murther of the ſaid Boy upon ſuſpicion. <hi>Bliſs</hi> knowing that
+<pb n="8" facs="tcp:38166:6"/>
+                  <!-- PDF PAGE 36 -->he had mony to pay to one <hi>Nichols,</hi> from his Maſter, which was his Uncle, <hi>Richard Johnſon</hi> a Butcher at <hi>Kiksend</hi> near <hi>Hadley,</hi> on <hi>Barnet</hi> Com<g ref="char:EOLhyphen"/>mon.</p>
+               <p>
+                  <hi>WIlliam Bliſs</hi> committed by <hi>Francis Croyley</hi> 
+                  <abbr>Eſq</abbr> upon ſuſpicion of Mur<g ref="char:EOLhyphen"/>dering one <hi>Robert Porter,</hi> the 24th of <hi>Feb.</hi> 1672. The perſon was murdered about <hi>Michaelmas</hi> laſt, &amp; his body was found buried near the Round about-Houſe at <hi>Kicksend</hi> by a pack of Dogs Hunting, who left the Hare in view to ſcrape o<g ref="char:EOLhyphen"/>ver the place where the body was buried, (the Hogs having much torn the Carcaſe) the cloathes was ſeen and known by ſeveral marks to be the cloathes of <hi>Porter,</hi> who was never ſeen ſince he was in <hi>Bliſses</hi> company. The Witneſſes proved that this <hi>Bliſs</hi> had been two nights with him, and had been ſome days in his company, and alſo knew that he had money about him. <hi>Bliſs</hi> de<g ref="char:EOLhyphen"/>nyed all this. Whereupon he was convicted, and is to be Hanged in Chains near <hi>the Round<g ref="char:EOLhyphen"/>about</hi> Houſe at <hi>Kicksend.</hi>
+               </p>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:38166:6"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </body>
+   </text>
+</TEI>
